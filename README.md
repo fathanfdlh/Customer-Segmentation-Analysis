@@ -1,5 +1,3 @@
-# Capstone-Project-II-JCDSAH-25
-
 # Customer Segmentation Analysis pada Supermarket
 
 ## Pendekatan RFM, Demografi, dan Efektivitas Kampanye untuk Mendukung Strategi Pemasaran
